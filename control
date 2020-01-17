@@ -3,7 +3,7 @@ Name: WireIcons
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Customizable border around app icons.
 Maintainer: Christian Kosman <support@tripleaxis.net>
 Author: Christian Kosman <support@tripleaxis.net>
 Section: Tweaks
