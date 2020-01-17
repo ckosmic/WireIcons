@@ -1,0 +1,9 @@
+Package: com.ckosmic.wireicons
+Name: WireIcons
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Christian Kosman <support@tripleaxis.net>
+Author: Christian Kosman <support@tripleaxis.net>
+Section: Tweaks
