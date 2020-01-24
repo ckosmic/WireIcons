@@ -20,6 +20,20 @@
 		</dict>
 		<dict>
 			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>label</key>
+			<string>Dynamic Colors</string>
+			<key>key</key>
+			<string>dynamicColors</string>
+			<key>defaults</key>
+			<string>com.ckosmic.wireiconsprefs</string>
+			<key>default</key>
+			<false/>
+			<key>PostNotification</key>
+			<string>com.ckosmic.wireiconsprefs.settingschanged</string>
+		</dict>
+		<dict>
+			<key>cell</key>
 			<string>PSLinkCell</string>
 			<key>cellClass</key>
 			<string>PFSimpleLiteColorCell</string>
@@ -69,7 +83,7 @@
 			<key>keyboard</key>
 			<string>numbers</string>
 			<key>isDecimalPad</key>
-			<false/>
+			<true/>
 			<key>key</key>
 			<string>iconImgScale</string>
 			<key>PostNotification</key>

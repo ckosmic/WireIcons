@@ -1,4 +1,4 @@
-ARCHS = armv7 arm64 arm64e
+ARCHS = arm64 arm64e
 
 INSTALL_TARGET_PROCESSES = SpringBoard
 
@@ -8,7 +8,7 @@ TWEAK_NAME = WireIcons
 
 WireIcons_FILES = Tweak.x
 WireIcons_CFLAGS = -fobjc-arc
-WireIcons_LIBRARIES = colorpicker
+WireIcons_LIBRARIES += colorpicker
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 SUBPROJECTS += wireiconsprefs

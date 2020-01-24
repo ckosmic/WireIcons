@@ -1,10 +1,11 @@
 Package: com.ckosmic.wireicons
 Name: WireIcons
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Depends: firmware (>=13.0), mobilesubstrate, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
 Description: Customizable border around app icons.
 Maintainer: Christian Kosman <support@tripleaxis.net>
 Author: Christian Kosman <support@tripleaxis.net>
 Section: Tweaks
-Version: 0.0.1
-Installed-Size: 468
+Depiction: https://ckosmic.github.io/repo/depictions/?p=com.ckosmic.wireicons
+Version: 0.2.0
+Installed-Size: 404
